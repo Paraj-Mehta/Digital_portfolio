@@ -88,8 +88,8 @@ http://localhost:5173
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/paraj_mehta
-* GitHub: https://github.com/Paraj_Mehta
+* LinkedIn: https://linkedin.com/in/parajmehta/
+* GitHub: https://github.com/Paraj-Mehta
 
 ---
 
